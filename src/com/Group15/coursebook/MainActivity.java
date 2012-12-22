@@ -10,6 +10,7 @@ public class MainActivity extends Activity {
 	//edward change second
 	//edward change third
 	//edward change forth
+	//edward change fifth
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		int i=0;
