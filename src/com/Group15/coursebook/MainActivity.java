@@ -8,7 +8,7 @@ public class MainActivity extends Activity {
 //Edward Change
 	//Andy Change
 	//edward change second
-	//andy change second time
+	//edward change third
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		int i=0;
