@@ -11,6 +11,7 @@ public class MainActivity extends Activity {
 	//edward change third
 	//edward change forth
 	//edward change fifth
+	//Andy Change second
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		int i=0;
